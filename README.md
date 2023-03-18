@@ -7,26 +7,26 @@ clone the repository
 
 Change directory to the cloned folder
 
-[cd student_manag_API](url)
+```cd student_manag_API```
 
 Install necessary dependency to run the project
 
-[pip install -r requirements.txt](url)
+```pip install -r requirements.txt```
 
 Create database
 
-[flask db init](url)
+```flask db init```
 
-[flask db migrate ](url)
+```flask db migrate```
 
-[flask db upgrade](url)
+```flask db upgrade```
 
 run application
 
-[flask run ](url)
+```flask run```
 
 or
 
-[./app.py](url)
+```/.app.py```
 
 
